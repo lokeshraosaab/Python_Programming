@@ -20,3 +20,8 @@ c = 8
 d = 74
 isGreater(c, d)
 calculateGmean(c, d)
+
+def welcome() :
+  print("Your are welcome")
+
+Hello = "Thankyou"
