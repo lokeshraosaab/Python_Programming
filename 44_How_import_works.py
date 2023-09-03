@@ -34,3 +34,5 @@ print(math.nan, type(math.nan))
 
 
 
+
+
