@@ -5,3 +5,10 @@
 # splitting, merging, cropping, and transforming the pages of PDF files. 
 # It can also add custom data, viewing options, and passwords to PDF files.
 # pypdf can retrieve text and metadata from PDFs as well.
+
+
+
+
+
+
+# Solution of this exercise is in the pdf merger folder
