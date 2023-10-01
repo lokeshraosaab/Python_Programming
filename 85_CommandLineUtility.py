@@ -35,3 +35,5 @@ args = parser.parse_args()
 print(args.url)
 print(args.output, type(args.output))
 download_file(args.url, args.output)
+
+# iss program ko run krne ke line command line pr yhi == "python filename url" and then enter.
